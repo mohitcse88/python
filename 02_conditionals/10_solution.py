@@ -4,7 +4,7 @@
 pet = input("Enter your pet sepecies: ").lower()
 age = int(input("Enter the age of you pet: "))
 
-food = ""
+# food = ""
 if pet == "dog":
     if age < 2:
         food = "Puppy food"
