@@ -1,6 +1,7 @@
 Welcome to the python wiki!
 
 ## Learn Python Programming 
+- Resources [Chai aur code](https://www.youtube.com/playlist?list=PLu71SKxNbfoBsMugTFALhdLlZ5VOqCg2s)
 
 ### Real life uses of python programming 
 - Automation 
